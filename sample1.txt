@@ -8,3 +8,5 @@ back on work with deletion of of line 1
 
 changes made but not commited once gets added from wrk flow to staging area 
 after addition adding some more line s to check what happens 
+yoyo its working after merge to push 
+reset function trail
