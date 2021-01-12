@@ -3,7 +3,7 @@
 interval time hehe hehe
 back on work with deletion of of line 1 
 
-
+writte anythingto un commit changes understqanding 
 
 
 changes made but not commited once gets added from wrk flow to staging area 
